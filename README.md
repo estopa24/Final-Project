@@ -28,6 +28,7 @@ To read in the datasets using pandas and perform exploratory analysis to see the
 in order to perform data analysis on them.
 
 **Observations Made From Exploratory Analysis:**
+
 *Dataset 1 "Fundamentals":* 
 - Although the format of the data seems to be consistent at both ends of the dataset, there are NaN values which may interfere with data analysis and should be looked at more closely for each case if needed to answer the questions.
 - There are many columns that will not need to be used, so several columns should be removed when the dataset is cleaned. The column names might also be shortened.
