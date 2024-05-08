@@ -60,8 +60,8 @@ Read in each dataset again and putting each of them into a dataframe using panda
 **The Cleaned CSV files are included in the Repository under the names:*
 - Fundamentals_Cleaned.csv
 - Securities_Cleaned.csv
-- Prices_Cleaned.csv
-- Prices_Split_Adjusted_Cleaned.csv
+  
+* The Prices_Cleaned.csv and Prices_Split_Adjusted_Cleaned.csv are too big to include in this repository but they are saved in the Final_Project_Part3 Jupyter Notebook file and the Prices_Split_Adjusted_Cleaned.csv is imported and used in Milestone 4 and 5.
 
 
 **The Jupyter Notebook file that contains the code for this milestone is included in the Repository under the name:*
@@ -99,9 +99,11 @@ To read in again the datasets that were cleaned in Milestone 3 using pandas, and
 **The Jupyter Notebook file that contains the code for this milestone is included in the Repository under the name:*
 - Final_Project_Part5
 
-**The files to the Final Project Presentation Slides and Presentation Recording are both included in this Repository under the names:*
+**The file to the Final Project Presentation Slides is included in this Repository under the name:*
 - NY Stock Exchange Data Analysis - CMP Final Project.pptx
-- New York Stock Exchange Data Analysis Presentation Recording.mp4
+
+**A file of a summary of the project, including the insights learned and possible future work identified is included in this repository under the name:*
+- CMP-262 Final Project Summary.docx
 
 
 
