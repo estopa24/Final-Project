@@ -60,8 +60,9 @@ Read in each dataset again and putting each of them into a dataframe using panda
 **The Cleaned CSV files are included in the Repository under the names:*
 - Fundamentals_Cleaned.csv
 - Securities_Cleaned.csv
-  
-* The Prices_Cleaned.csv and Prices_Split_Adjusted_Cleaned.csv are too big to include in this repository but they are saved in the Final_Project_Part3 Jupyter Notebook file and the Prices_Split_Adjusted_Cleaned.csv is imported and used in Milestone 4 and 5.
+
+
+*The Prices_Cleaned.csv and Prices_Split_Adjusted_Cleaned.csv are too big to include in this repository but they are saved in the Final_Project_Part3 Jupyter Notebook file and the Prices_Split_Adjusted_Cleaned.csv is imported and used in Milestone 4 and 5.
 
 
 **The Jupyter Notebook file that contains the code for this milestone is included in the Repository under the name:*
