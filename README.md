@@ -13,6 +13,7 @@ To identify a domain of interest, identify potential clients, find datasets that
 **Potential Client/Stakeholders:** Individuals interested in investing, specifically buying stocks
 
 **Datasets Used:** https://www.kaggle.com/datasets/dgawlik/nyse
+
   **These datasets consist of historical data of S&P 500 companies from 2013 to 2016.*
   
 **Questions:**
