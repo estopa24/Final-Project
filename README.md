@@ -25,7 +25,8 @@ To identify a domain of interest, identify potential clients, find datasets that
 
 ## Milestone 2:
 To read in the datasets using pandas and perform exploratory analysis to see the structure of each dataset, to see if any cleaning will need to be done 
-in order to perform data analysis on them. 
+in order to perform data analysis on them.
+
 **Observations Made From Exploratory Analysis:**
 *Dataset 1 "Fundamentals":* 
 - Although the format of the data seems to be consistent at both ends of the dataset, there are NaN values which may interfere with data analysis and should be looked at more closely for each case if needed to answer the questions.
