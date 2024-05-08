@@ -50,7 +50,7 @@ in order to perform data analysis on them.
 
 
 **The Jupyter Notebook file that contains the code for this milestone is included in the Repository under the name:*
-- Final_Project_Part2
+- Final_Project_Part_2
 
 ## Milestone 3:
 Read in each dataset again and putting each of them into a dataframe using pandas. Then cleaning each dataset so that information can be extracted more easily to analye the data and answer the questions. Each cleaned dataframe will then be saved to another CSV file.
