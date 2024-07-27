@@ -1,4 +1,4 @@
-# Final-Project
+# NY Stock Exchange Data Analysis
 
 ## Purpose:
 The purpose of this final project is to choose a dataset to explore, analyze and present insights gained that might benefit a company or client. Analysis will be performed using python and several of its packages, visualizations of the data will be performed, and the work will be presented.
